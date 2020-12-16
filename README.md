@@ -1,7 +1,7 @@
-# Topic modelling on Tatar news dataset
+# Topic modeling on Tatar news dataset
 This repository includes:
 * parser's code for https://tatar-inform.tatar/ website
-* [Attention-Based Aspect Extraction](https://www.aclweb.org/anthology/P17-1036.pdf) and [LDA](https://dl.acm.org/doi/pdf/10.5555/944919.944937) models comparison on topic modelling task with collected dataset
+* [Attention-Based Aspect Extraction](https://www.aclweb.org/anthology/P17-1036.pdf) and [LDA](https://dl.acm.org/doi/pdf/10.5555/944919.944937) models comparison on topic modeling task with collected dataset
 
 ## Data 
 You can find the full dataset, word2vec embeddings and model weights in [[Download]](https://drive.google.com/drive/folders/1b3YjR6ouMOp42V03cC2UMH4hff_zX85D?usp=sharing). 
